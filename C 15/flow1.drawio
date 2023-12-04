@@ -1,0 +1,45 @@
+<mxfile host="Electron" modified="2023-12-03T23:54:52.162Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="V7pA1roJdgv0hdO99cgo" version="22.0.3" type="device">
+  <diagram name="Trang-1" id="xn5SPz5H8o50ib1WPEih">
+    <mxGraphModel dx="1036" dy="606" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CfgwfUb5J36b-cJNUGAJ-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CfgwfUb5J36b-cJNUGAJ-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CfgwfUb5J36b-cJNUGAJ-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="320" y="50" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CfgwfUb5J36b-cJNUGAJ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CfgwfUb5J36b-cJNUGAJ-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CfgwfUb5J36b-cJNUGAJ-4" value="Struct Student {&lt;br&gt;hoVaTen[50], tuoi, soDienThoai[15], email[100] }" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="180" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CfgwfUb5J36b-cJNUGAJ-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CfgwfUb5J36b-cJNUGAJ-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CfgwfUb5J36b-cJNUGAJ-7" value="&quot;Thai Nguyen Gia Bao&quot;, 18, 87592650, kgwygk@gmail.com" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="235" y="320" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CfgwfUb5J36b-cJNUGAJ-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="CfgwfUb5J36b-cJNUGAJ-9" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="367.5" y="540" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CfgwfUb5J36b-cJNUGAJ-9" value="sv.HoVaTen, sv.tuoi, sv.soDienThoai, sv.email" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
+          <mxGeometry x="235" y="430" width="265" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CfgwfUb5J36b-cJNUGAJ-11" value="END" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="310" y="540" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
